@@ -1,0 +1,24 @@
+body {
+    background-color: black;
+}
+
+#city-input, #weather-output {
+    max-width: 400px;
+    margin: 0 auto;
+    background-color: #4e4e4e;
+    
+}
+
+#city-input {
+    color: white;
+}
+
+#city-input::placeholder {
+    color: white;
+}
+  
+.banner {
+    color: #FFD23F;
+    font-family: sans-serif;
+    /* background-color: #4e4e4e; */
+}
